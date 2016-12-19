@@ -3,3 +3,4 @@ __pycached__
 *.pyc
 .idea/*
 .idea/
+geckodriver.log
